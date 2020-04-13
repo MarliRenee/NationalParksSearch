@@ -30,3 +30,9 @@
   ul {
     list-style: none;
   }
+
+
+select {
+  overflow-y: scroll;
+  width:50px;
+}
